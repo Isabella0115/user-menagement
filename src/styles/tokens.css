@@ -1,0 +1,15 @@
+:root {
+    --color-primary: #1D3557;
+    --color-secondary: #FF6A00;
+    --color-background: #F8F9FA;
+    --color-text: #212529;
+    --color-accent: #888;
+    --color-placeholder: #ccc;
+    --color-placeholder-light: #e7e7e7;
+    --color-border: #ddd;
+    --color-blue: #2d6cdf;
+    --color-white: #fff; 
+
+    --font-family: 'Nunito', sans-serif;
+
+  }
