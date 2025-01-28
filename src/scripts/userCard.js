@@ -10,7 +10,7 @@ export function createUserCard(user) {
 
     card.innerHTML = `
         <button class="more-btn fa-solid fa-ellipsis-vertical"></button>
-        <img src="src/images/User-Avatar-Profile-PNG-Pic-Clip-Art-Background.png" alt="${user.name}'s photo" class="user-image">
+      <img src="src/images/User-Avatar-Profile-PNG-Pic-Clip-Art-Background.png" alt="${user.name}'s photo" class="user-image">
         <h3>${user.name} ${user.surname}</h3>
         <button class="details-btn">Details</button>
         <div class="more-menu hidden">
